@@ -1,0 +1,1 @@
+export default { base: '/', server: { proxy: { '/api': 'https://gustitosgo-reporting.onrender.com' }}};
